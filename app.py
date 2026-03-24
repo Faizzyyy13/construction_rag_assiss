@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 # 1. Configuration & Setup
 # ==========================================
 # Replace with your OpenRouter API Key
-OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"].strip()
 
 # Using a free open-source embedding model [cite: 5]
 @st.cache_resource
