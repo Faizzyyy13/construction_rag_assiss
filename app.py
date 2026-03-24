@@ -30,7 +30,7 @@ def chunk_text(text, chunk_size=500, overlap=50):
         chunks.append(chunk)
     return chunks
 
-import gdown
+
 import pdfplumber
 import os
 
