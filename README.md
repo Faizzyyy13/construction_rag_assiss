@@ -64,12 +64,14 @@ Direct Retrieval (Factual)
 5. What is the estimated timeline for home financing confirmation and disbursal?
 
 Synthesis & Process
+
 6. What factors affect construction project delays?
 7. What operational mechanisms does Indecimal use to enforce its Zero-Tolerance Policy on Construction Delays?
 8. What are the 10 stages of the customer journey?
 9. How does the company attempt to reduce hidden surprises in pricing?
 
 Boundary Testing (Anti-Hallucination)
+
 10. Does Indecimal build commercial office spaces? (Expected: I don't have enough information)
 11. Which specific brands of cement and steel does Indecimal use? (Expected: I don't have enough information)
 12. What is the exact interest rate for the home financing support? (Expected: I don't have enough information)
