@@ -73,7 +73,7 @@ Synthesis & Process
 Boundary Testing (Anti-Hallucination)
 
 10. Does Indecimal build commercial office spaces? (Expected: I don't have enough information)
-11. Which specific brands of cement and steel does Indecimal use? (Expected: I don't have enough information)
+11. Who is the current CEO and founder of Indecimal? (Expected: I don't have enough information)
 12. What is the exact interest rate for the home financing support? (Expected: I don't have enough information)
 
 Evaluation Findings
